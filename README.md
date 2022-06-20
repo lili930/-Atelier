@@ -1,2 +1,2 @@
 # -Atelier
-The idea and some analysis about the health care
+The ideas and some analysis about the health care
