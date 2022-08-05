@@ -12,7 +12,7 @@ Le jeu de données se compose de l'âge, du sexe, de l'IMC (indice de masse corp
 On a construit quatre modèles à comparer, ils sont la regréssion linéaire, l'arbre de décision, Random forest et Gradient Boosting, comparé aux modèles de bagging, le modèle de Gradient boosting est meilleure avec une prédiction 89%, supérieur à la prédiction 87% de modèle Random forest.
 
 ## 3. Varicelle d'Hongrie
-cette base de données représente les situations de cases de varicelle des principales villes d'Hongrie de l'année 2005 à l'année 2015 en format des séries chronologiques. Après avoir fait l'analyse d'exploration des data, on a construit le modèle XgBoost pour mieux comprendre profondément les principles de Boosting.
+Cette base de données représente les situations de cases de varicelle des principales villes d'Hongrie de l'année 2005 à l'année 2015 en format des séries chronologiques. Après avoir fait l'analyse d'exploration des data, on a construit le modèle XgBoost pour mieux comprendre profondément les principles de Boosting.
 
 On s'appuye ici sur les résultats de Mean square error (MSE) pour déterminer les prédictions du modèle, le résultat de total MSE est égale à 0.16, proche de 0，on peut donc dire que le modèle a été bien entraîné.
 
